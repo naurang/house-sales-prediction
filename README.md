@@ -39,7 +39,7 @@ The dataset provides various attributes related to the houses sold. Below is the
 To run this project locally, you will need to install the required libraries. If you are using Anaconda, you can install the necessary libraries by uncommenting the following lines in your environment setup script:
 
 ```bash
-# All Libraries required for this lab are listed below. The libraries pre-installed on Skills Network Labs are commented.
+# All Libraries required for this lab are listed below. 
 # !mamba install -qy pandas==1.3.4 numpy==1.21.4 seaborn==0.9.0 matplotlib==3.5.0 scikit-learn==0.20.1
 ```
 
